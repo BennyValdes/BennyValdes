@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @BennyValdes
-- 👀 I’m interested in fullstack development and process management
-- 🌱 I’m currently learning to programate in Javascript meanwhile I'm learning to use git
-- 💞️ I’m looking to collaborate on projects regarding to project management and DRPs
-- 📫 How to reach me ...
+<!--
+Here are some ideas to get you started:
 
-<!---
-BennyValdes/BennyValdes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- ⚡ Fun fact: ...
+-->
+## 👋 Hi there, I’m @BennyValdes:
+- 🖥 Android Developer
+- 💼 Experience in Project/Product Management, and expert in Processes.
+- 🎓 Bachelor's Computer Science from ITESM, class 2011.
+- 👀 I’m interested in Android development and Product management.
+- 🌱 I’m currently learning to programate in AI meanwhile I'm working as Sr. Android Developer.
+- 💞️ I’m looking to collaborate on projects regarding to application Development
+- 📫 How to reach me contact@bennyvaldes.com
+
+## 📫 How to reach me:
+You can reach me at the email: contact@bennyvaldes.com
